@@ -1,0 +1,13 @@
+{
+  "name": "BuildJS",
+  "version": "0.1.0",
+  "description": "Class definition and loading for JavaScript.",
+  "main": "js/Build.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
